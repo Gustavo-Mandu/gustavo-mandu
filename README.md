@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Gustavo Mandu 👋🏻
 
-## Sou **Desenvolvedor Full-Stack** e **UI/UX Designer**. Anteriormente, estudei **Figma** para criar interfaces e aprimorar minhas habilidades de design e prototipação. Atualmente, estou focado no aprendizado de tecnologias **Front-End** e no desenvolvimento de sistemas utilizando **HTML**, **CSS**, **JavaScript** e **React**. Além disso, estou expandindo meus conhecimentos em **Back-End** com tecnologias como **Java**, **Spring** e **MySQL**.
+### Sou **Desenvolvedor Full-Stack**💻 e **UI/UX Designer**✨. Anteriormente, estudei **Figma** para criar interfaces e aprimorar minhas habilidades de design e prototipação. Atualmente, estou focado no aprendizado de tecnologias **Front-End** e no desenvolvimento de sistemas utilizando **HTML**, **CSS**, **JavaScript** e **React**. Além disso, estou expandindo meus conhecimentos em **Back-End** com tecnologias como **Java**, **Spring** e **MySQL**.
 
-## Tenho orgulho de fazer parte do **Instituto PROA**, uma ONG que capacita jovens para o mercado de trabalho, onde aprendo em módulos como **Desenvolvimento Web Full Stack**, **Comportamental**, **Cultural**, **Projeto Profissional**, **Comunicação** e **Vivências**.
+### Tenho orgulho de fazer parte do **Instituto PROA**💙, uma ONG que capacita jovens para o mercado de trabalho, onde aprendo em módulos como **Desenvolvimento Web Full Stack**, **Comportamental**, **Cultural**, **Projeto Profissional**, **Comunicação** e **Vivências**.
 
-### Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** em 2024, e realizei projetos como o **AquaLife**, desenvolvido com **Java** no **Android Studio**.
+### Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** em 2024, e realizei projetos como o **AquaLife**🐠, desenvolvido com **Java** no **Android Studio**📱.
 
-### Também concluí o **curso Técnico em Desenvolvimento de Sistemas** em 2022 pela **Etec Zona Leste**, entregando como TCC o projeto **Music Learning**, um site de aprendizado musical.
+### Também concluí o **curso Técnico em Desenvolvimento de Sistemas** em 2022 pela **Etec Zona Leste**, entregando como TCC o projeto **Music Learning**, um site de aprendizado musical🎶.
 
 ### Além disso, participei de diversos **cursos extracurriculares**, oferecidos pela **USP** e pela **Fundação Bradesco**, que complementam minha formação e ampliam minhas habilidades técnicas e profissionais.
 
