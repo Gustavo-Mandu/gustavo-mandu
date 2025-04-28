@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Gustavo Mandu 👋🏻
 
 ### Desenvolvedor **Full-Stack**💻 e **UI/UX Designer**✨.
-### Atualmente, estou focado no aprendizado de **Front-End** com **HTML, CSS, JavaScript e React**, e expandindo meus conhecimentos em **Back-End** com **Java, Spring e MySQL**.
-### Tenho experiência em **Figma** para **design** e **prototipação**, e sou aluno do **Instituto PROA**💙, uma ONG que capacita jovens para o mercado de trabalho em **Desenvolvimento Web Full-Stack**.
-### Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** em 2024 e um curso técnico em **Desenvolvimento de Sistemas** em 2022, com projetos como **AquaLife**🐠 e **Music Learning**🎶.
+Atualmente, estou focado no aprendizado de **Front-End** com **HTML, CSS, JavaScript e React**, e expandindo meus conhecimentos em **Back-End** com **Java, Spring e MySQL**.
+&nbsp;
+Tenho experiência em **Figma** para **design** e **prototipação**, e sou aluno do **Instituto PROA**💙, uma ONG que capacita jovens para o mercado de trabalho em **Desenvolvimento Web Full-Stack**.
+&nbsp;
+Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** em 2024 e um curso técnico em **Desenvolvimento de Sistemas** em 2022, com projetos como **AquaLife**🐠 e **Music Learning**🎶.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavo-mandu) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmandu10@gmail.com)
 
