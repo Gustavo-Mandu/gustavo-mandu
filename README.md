@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Gustavo Mandu 👋🏻
 
 ### Desenvolvedor **Full-Stack**💻 e **UI/UX Designer**✨.
-Atualmente, estou focado no aprendizado de **Front-End** com **HTML, CSS, JavaScript e React**, e expandindo meus conhecimentos em **Back-End** com **Java, Spring e MySQL**.
+Atualmente, estou focado no aprendizado de **Front-End** com **HTML, CSS, JavaScript e React**, para expandir meus conhecimentos em **Back-End** com **Java, Spring e MySQL**.
 <br><br>
 Tenho experiência em **Figma** para **design** e **prototipação**, e sou aluno do **Instituto PROA**💙, uma ONG que capacita jovens para o mercado de trabalho em **Desenvolvimento Web Full-Stack**.
 <br><br>
-Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** em 2024 e um curso técnico em **Desenvolvimento de Sistemas** em 2022, com projetos como **AquaLife**🐠 e **Music Learning**🎶.
+Concluí minha graduação em **Análise e Desenvolvimento de Sistemas**, em 2024, na UNICID. Dois anos antes estudei técnico em **Desenvolvimento de Sistemas**, na ETEC Zona Leste. Finalizei esses aprendizados com projetos como **Aqua Life**🐠 e **Music Learning**🎶.
 <br><br>
 Nas horas vagas, gosto muito de tocar piano e ouvir música clássica, também gosto de jogar vídeo game e estudar sobre as diversas área da tecnologia.
 
