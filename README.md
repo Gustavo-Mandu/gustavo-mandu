@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=1000&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Gustavo+Mandu%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Full-Stack%F0%9F%92%BB+e+UI%2FUX+Designer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2000&pause=1000&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Gustavo+Mandu%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Full-Stack%F0%9F%92%BB+e+UI%2FUX+Designer%E2%9C%A8)](https://git.io/typing-svg)
 
 Atualmente, estou focado no aprendizado de **Front-End** com **HTML, CSS, JavaScript e React**, para expandir meus conhecimentos em **Back-End** com **Java, Spring e MySQL**.
 <br><br>
