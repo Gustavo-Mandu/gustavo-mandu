@@ -19,9 +19,9 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 ## 🎯 Interesses
 
-🎹 Tocar pianoe ouvir música clássica  
-🎮 Jogar vídeo game  
-📖 Estudar sobre as diversas áreas da tecnologia  
+🎹 Tocar piano e ouvir música clássica;
+🎮 Jogar vídeo game;
+📖 Estudar sobre as diversas áreas da tecnologia;
 🐶 Cuidar da Lola!
 
 <img alt="Foto do meu pet, Lola" width="250px" src="fotoLola.png">
@@ -31,8 +31,7 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 ## 📬 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavo-mandu)  
-[![E-mail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmandu10@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavo-mandu) [![E-mail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmandu10@gmail.com)
 
 ---
 
