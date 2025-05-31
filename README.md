@@ -18,6 +18,8 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 <img align="right" alt="Foto do meu pet, Lola" width="150px" src="/fotoLola.png">
 
+<br>
+
 <h2>🎯 Interesses</h2>
 
 🎹 Tocar piano e ouvir música clássica  
