@@ -19,10 +19,7 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 ## 🎯 Interesses
 
-🎹 Tocar piano e ouvir música clássica;
-🎮 Jogar vídeo game;
-📖 Estudar sobre as diversas áreas da tecnologia;
-🐶 Cuidar da Lola!
+🎹 Tocar piano e ouvir música clássica, 🎮 jogar vídeo game, 📖 estudar sobre as diversas áreas da tecnologia e 🐶 cuidar da Lola!
 
 <img alt="Foto do meu pet, Lola" width="250px" src="fotoLola.png">
 
