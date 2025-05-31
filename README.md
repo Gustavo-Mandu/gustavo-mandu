@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Gustavo Mandu 👋🏻</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2000&pause=1000&vCenter=true&width=660&lines=Ol%C3%A1!+Apaixonado+por+tecnologia+e+criatividade!%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Full-Stack%F0%9F%92%BB+e+UI%2FUX+Designer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2000&pause=1000&vCenter=true&width=700&lines=Ol%C3%A1!+Apaixonado+por+tecnologia+e+criatividade!%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Full-Stack%F0%9F%92%BB+e+UI%2FUX+Designer%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
 
@@ -19,12 +19,13 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 ## 🎯 Interesses
 
-<img alt="Foto do meu pet, Lola" width="200px" src="/fotoLola.png">
-
 🎹 Tocar pianoe ouvir música clássica  
 🎮 Jogar vídeo game  
 📖 Estudar sobre as diversas áreas da tecnologia  
 🐶 Cuidar da Lola!
+
+<img alt="Foto do meu pet, Lola" width="250px" src="fotoLola.png">
+
 
 ---
 
