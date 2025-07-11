@@ -12,7 +12,7 @@ Tenho experiência com **Figma** para **design** e **prototipação**, e sou alu
 
 🎓 Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** (2024 - UNICID)  
 📚 Formação técnica em **Desenvolvimento de Sistemas** (2022 - ETEC Zona Leste)  
-🚀 Projetos marcantes: **Aqua Life** 🐠 e **Music Learning** 🎶
+🚀 Projetos marcantes: **Aqua Life** 🐠 e **Music Learning** 🎶 e **Lume** 💡
 
 ---
 
