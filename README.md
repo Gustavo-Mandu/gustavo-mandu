@@ -8,7 +8,7 @@
 
 Sou desenvolvedor Full-Stack, constantemente aprimorando minhas habilidades em Front-End com **HTML, CSS, JavaScript, React e Next.js**, e em Back-End com **Java, Spring** e **MySQL**.
 
-Tenho experiência com **Figma** para design e prototipação de interfaces e sou aluno do **Instituto PROA** 💙, uma ONG que capacita jovens para o mercado de Desenvolvimento Web Full-Stack.
+Tenho experiência com **Figma** para design e prototipação de interfaces e fui aluno do **Instituto PROA** 💙, uma ONG que capacita jovens para o mercado de Desenvolvimento Web Full-Stack.
 
 🔧 **Atualmente estudando Site Reliability Engineering (SRE)**, com foco em infraestrutura, automação e monitoramento.  
 
